@@ -42,7 +42,7 @@ def get_message(message: Message):
 **message** - user text message
 **user_uid** - unique user id (for chat history)
 
-####Example
+#### Example
 POST message:
 ```json
 {
