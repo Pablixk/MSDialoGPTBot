@@ -1,0 +1,5 @@
+/.idea/
+/venv/
+/microsoft_dialogpt/
+/microsoft_dialogpt_cached_model/
+/microsoft_dialogpt_cached_token/
